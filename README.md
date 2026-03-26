@@ -1,4 +1,4 @@
-# Proyecto-Simulador-de-Base-de-Datos-de-NBA
+# NBA_database_simulator
 
  DSA (Data Structures and Algorithms)
 
