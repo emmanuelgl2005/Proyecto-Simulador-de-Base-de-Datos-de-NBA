@@ -1,6 +1,6 @@
 # Proyecto-Simulador-de-Base-de-Datos-de-NBA
 
-# DSA (Data Structures and Algorithms)
+ DSA (Data Structures and Algorithms)
 
 ### Problema 1 (Algoritmo Ordenamiento)
 ##### Link video: https://youtu.be/uTtlI4nVlqI
